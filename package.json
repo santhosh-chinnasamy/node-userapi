@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "node-userapi",
   "version": "0.0.0",
   "private": true,
   "scripts": {
